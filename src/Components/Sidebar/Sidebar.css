@@ -1,0 +1,24 @@
+.sidebar {
+    background-color: rgba(91, 88, 88, 0.522);
+    flex: 2;
+
+}
+
+.sideContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.sideItem {
+    background-color: #fff;
+    border: 1px solid rgba(204, 204, 204, 0.37);
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    width: 170px;
+    height: 80px;
+}
